@@ -25,10 +25,10 @@ Figma Prototype
 
 
 [🇧🇷]
-Sobre o Projeto
+Sobre o Projeto:
 Desenvolvimento de um conceito de site dinâmico para o food truck Delícias Gourmet, com o objetivo de ampliar a divulgação dos produtos, facilitar os pedidos dos clientes e propor uma área administrativa para melhorar o controle dos pedidos e dos produtos.
 
-Minha Contribuição
+Minha Contribuição:
 Fiquei responsável pela criação e organização do projeto no Figma. As decisões de UI foram construídas em colaboração com minha equipe e com o cliente.
 
 Objetivos do Projeto
